@@ -56,3 +56,17 @@ Empower installers. Never pack API keys. Name `TYPESAFE_API_KEY` + Jev MCP in in
 ## License
 
 MIT. Jev / TypeSafe product terms remain with TypeSafe AI.
+
+## Suite (extended 2026-09-19)
+
+### Lanes
+- [jev-confidence-routing](https://github.com/HermeticOrmus/jev-confidence-routing)
+- [jev-mcp-setup](https://github.com/HermeticOrmus/jev-mcp-setup)
+- [jev-claim-verify](https://github.com/HermeticOrmus/jev-claim-verify)
+- [jev-context-screen](https://github.com/HermeticOrmus/jev-context-screen)
+
+### Also
+- [jev-primitives](https://github.com/HermeticOrmus/jev-primitives) · [jev-decision-gate](https://github.com/HermeticOrmus/jev-decision-gate) · [jev-batch-decisions](https://github.com/HermeticOrmus/jev-batch-decisions) · [jev-rank-wide-read-narrow](https://github.com/HermeticOrmus/jev-rank-wide-read-narrow) · [jev-state-questions-action-verify](https://github.com/HermeticOrmus/jev-state-questions-action-verify) · [jev-grok-bot](https://github.com/HermeticOrmus/jev-grok-bot) · [jev-anti-jobs](https://github.com/HermeticOrmus/jev-anti-jobs) · [jev-benchmark-loop](https://github.com/HermeticOrmus/jev-benchmark-loop)
+
+### Grok Build Libre ports
+See org: LibreUIUX / SessionFlow / GEO / DevOps / SecOps / Embed / GameDev / FinTech / Mobile / MLOps / Arch / Copy `-Grok-Build`.
